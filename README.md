@@ -47,26 +47,24 @@ I am willing with new technology for up to date and challenge, inspire about cod
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
     <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
-- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
-  </a> </b> – Kampong Thom<br>
-  <b>Major</b> - General Knowledge - science (2009-2015)
+- <b><a href="#" > Hun Sen ROTA high school :
+  </a> </b> – Ksach Kandal, Kandal Province<br>
+  <b>Major</b> - General Knowledge - science (2012-2015)
 
 ### My Skill
 
 ```tsx
 {
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
-  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
-  toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  toolsTest: ['Jest'],
-  toolsDesign: ['Adobe XD'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
-  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
-  toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['Template Starter','Npm Library']
+  Back-End: ['Laravel Framework', 'Node Js', 'Nest Js','AJAX' ,'JSON'],
+  Database: ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
+  frontendUI: ['Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
+  toolsBuildLibrary: ['Npm','yarn'],
+  toolsDesign: ['Adobe XD', 'Photoshop'],
+  toolsLint: ['Eslint' , 'Prettier',],
+  toolsDev: ['Vscode', 'Postman' , 'Trello', 'Sublime'],
+  Cloud: ['Google Cloud', 'AWS', 'Docker','Heroku','Github Page'],
+  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'Ubunto'],
+  myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
 }
 ```
 
@@ -74,33 +72,21 @@ I am willing with new technology for up to date and challenge, inspire about cod
 
 [back to top^](#curriculum-vitae)
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
+- <b> <a target="_blank" href="https://codeclans.asia/" target="_blank" > Code Clans:
   </a></b> <br>
-  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
+  <b>PHP/Laravel Framework Developer</b> - March 2020 - Present (1.5 Year)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Code Clans about 1.5 Year to build Web Application such as Job Announcement, Online Shop, Sale System CMS, Tour Website. <b>.
 
   - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
-    - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-  - <b>Private Project</b> - 6 (Admin-Portal)
-
-- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
+    - <a target="_blank" href="https://jobboom.asia/">https://jobboom.asia/</a> - Job Announcement (Website - Laravel Framework)
+    - <a target="_blank" href="https://namkatyorlapa.com/">https://namkatyorlapa.com/ </a> - Tour Website
+    - <a target="_blank" href="https://satvkh.com/">https://satvkh.com/ </a> - News Website
   </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi . 
-
-- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
+- <b> <a target="_blank" href="https://kosign.com.kh/">KOSIGN:
   </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
+  <b>React Developer</b> - September 2018 - March 2020 (1 year 7 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
 
