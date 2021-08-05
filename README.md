@@ -118,7 +118,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 </a>
   
 <a href="#" target="_blank"> <img align="left" title="mongodb"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/2560px-MongoDB_Logo.svg.png" alt="reactnative" width="26px" height="26px"  />
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/2560px-MongoDB_Logo.svg.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="Bootstrap"
   src="https://github.com/seiha-ly/seiha-ly/blob/main/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
@@ -136,14 +136,14 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <a href="#" target="_blank"> <img align="left" title="docker"
   src="https://github.com/seiha-ly/seiha-ly/blob/main/vertical-logo-monochromatic.png" alt="reactnative" width="26px" height="26px"  />
 </a>
-<a href="#" target="_blank"> <img align="left" title="trello"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+<a href="#" target="_blank"> <img align="left" title="laravel"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/laravel.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="javascript"
   src="https://github.com/seiha-ly/seiha-ly/blob/main/javascript.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="javascript"
-  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/main/dribbble_szablon__1_1.webp" alt="reactnative" width="26px" height="26px"  />
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/fppjegg7q1kb2pdzmlvf.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 
 </p>
