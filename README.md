@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) / Node Js, NestJs, Express as <b>Full Stact Web Development</b>(1year).
 
-I am willing with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as laravel framework and NestJs is improving. To make the project boilerplate is clean structure that make it easy to use.
+Anyway I like to research with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
 
 ### Education
 
