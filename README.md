@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
-## Sila Rim / ​​រឹម​ ស៊ីឡា
+## Seiha Ly ~ លី សីហា
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>(3+years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) and I have a basicly on / Node Js, NestJs, Express as <b>Full Stact Web Development</b>(1year).
 
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
+I am willing with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as laravel framework and NestJs is improving. To make the project boilerplate is clean structure that make it easy to use.
 
 ### Education
 
