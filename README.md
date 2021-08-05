@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/seiha_ly)
 [![Gmail](https://img.shields.io/badge/%20-seiha.hrd018@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:seiha.hrd018@gmail.com?subject=From%20GitHub&cc=seiha.hrd018@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) and I have a basicly on / Node Js, NestJs, Express as <b>Full Stact Web Development</b>(1year).
+Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) and / Node Js, NestJs, Express as <b>Full Stact Web Development</b>(1year).
 
 I am willing with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as laravel framework and NestJs is improving. To make the project boilerplate is clean structure that make it easy to use.
 
