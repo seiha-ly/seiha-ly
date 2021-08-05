@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a target="_blank" href="https://github.com/seiha-ly">
-  <img width="120" align="right" src="https://github.com/seiha-ly/seiha-ly/blob/16c77678ecb5a1d0d916286f52b3f8cd77cc570b/bomi.jpeg">
+  <img width="160" align="right" src="https://github.com/seiha-ly/seiha-ly/blob/main/seiha-ly.svg">
 </a>
 
 ## CURRICULUM VITAE
