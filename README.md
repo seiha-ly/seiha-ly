@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**rimsila/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seiha-ly/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ly-seiha-894975179/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/seiha_ly)
-[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:seiha.hrd018@gmail.com?subject=From%20GitHub&cc=seiha.hrd018@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-seiha.hrd018@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:seiha.hrd018@gmail.com?subject=From%20GitHub&cc=seiha.hrd018@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) and I have a basicly on / Node Js, NestJs, Express as <b>Full Stact Web Development</b>(1year).
 
