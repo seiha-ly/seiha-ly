@@ -86,98 +86,64 @@ I am willing with new technology for up to date and challenge, inspire about cod
 
 - <b> <a target="_blank" href="https://kosign.com.kh/">KOSIGN:
   </a></b> <br>
-  <b>React Developer</b> - September 2018 - March 2020 (1 year 7 months)
+  <b>Web Developer</b> - September 2018 - March 2020 (1 year 6 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked about 1 year and 6 months at Korean company in the Phnom Penh. I've developed with web UI using <b>Java Script</b> <b>/JQuery, Typescript</b>
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-    - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
-    - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-    - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
-    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
-    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
-    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
+  - <b>My Responsibility</b>
+    - Fixing Bug
+    - Implement new features
 
-  - <b>Private Project</b> - 5 (Admin-Portal)
+<!-- * -----Working At PLAN-B ---->
 
-<!-- * -----PlanB---->
-
-- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
+- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PLAN-B Cambodia:
   </a></b> <br>
-  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
-  flow of business and UX/UI.<br/>
+  <b>Web Designer</b> - Febraury, 2017 - March, 2018 (1 year)
+  &nbsp;I've worked for a year at japanese company in Phnom Penh. I've worked as web designer make a beautiful website, user-friendly, design image, banner
+  layout UX/UI.<br/>
 
-  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
-
-- <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
-  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
-  Windows.
+  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and AI.
 
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
+- <b>English:</b> proficiency
 
 ### Programming Language:
 
 <p align="left">
 
-<a href="#" target="_blank" > <img align="left" title="javascript" 
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+<a href="#" target="_blank"> <img align="left" title="postgresql"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/1200px-Postgresql_elephant.svg.png" alt="reactnative" width="26px" height="26px"  />
 </a>
-<a href="#" target="_blank"> <img align="left" title="react native"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react-native.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="react"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/typescript.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="redux"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/redux.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="graph"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/graph.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="Sass"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Sass.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="less"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/less.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="material-ui"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/material-ui.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="antd"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/antd.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="next js"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
+  
+<a href="#" target="_blank"> <img align="left" title="mongodb"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/2560px-MongoDB_Logo.svg.png" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="Bootstrap"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="github"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/github color.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/github%20color.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="gitlab"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-<a href="#" target="_blank"> <img align="left" title=" trello"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/trello.svg" alt="reactnative" width="26px" height="26px"  />
+<a href="#" target="_blank"> <img align="left" title="trello"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/trello.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-<a href="#" target="_blank"> <img align="left" title=" jira"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/jira.svg" alt="reactnative" width="26px" height="26px"  />
+<a href="#" target="_blank"> <img align="left" title="docker"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/vertical-logo-monochromatic.png" alt="reactnative" width="26px" height="26px"  />
+</a>
+<a href="#" target="_blank"> <img align="left" title="trello"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+</a>
+<a href="#" target="_blank"> <img align="left" title="javascript"
+  src="https://github.com/seiha-ly/seiha-ly/blob/main/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+</a>
+<a href="#" target="_blank"> <img align="left" title="javascript"
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/main/dribbble_szablon__1_1.webp" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 </p>
