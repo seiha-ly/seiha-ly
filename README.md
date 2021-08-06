@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a target="_blank" href="https://github.com/seiha-ly">
-  <img width="160" align="right" src="https://github.com/seiha-ly/seiha-ly/blob/main/seiha-ly.svg">
+  <img width="160" align="right" src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/main/LY_SEIHA.png">
 </a>
 
 ## CURRICULUM VITAE
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ly-seiha-894975179/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/seiha_ly)
 [![Gmail](https://img.shields.io/badge/%20-seiha.hrd018@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:seiha.hrd018@gmail.com?subject=From%20GitHub&cc=seiha.hrd018@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/Phone-+855_15302221-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85515302221)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) / Node Js, NestJs, Express as <b>Full Stack Web Development</b>(1year).
 
@@ -114,36 +116,36 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <p align="left">
 
 <a href="#" target="_blank"> <img align="left" title="postgresql"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/1200px-Postgresql_elephant.svg.png" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/1200px-Postgresql_elephant.svg.png" alt="reactnative" width="26px" height="26px"  />
 </a>
   
 <a href="#" target="_blank"> <img align="left" title="mongodb"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/2560px-MongoDB_Logo.svg.png" alt="reactnative" width="auto" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/2560px-MongoDB_Logo.svg.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="Bootstrap"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
 <a href="#" target="_blank"> <img align="left" title="github"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/github%20color.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/github%20color.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="gitlab"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="trello"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/trello.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/trello.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="docker"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/vertical-logo-monochromatic.png" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/vertical-logo-monochromatic.png" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="laravel"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/laravel.png" alt="reactnative" width="auto" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/laravel.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="javascript"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/javascript.svg" alt="reactnative" width="26px" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/javascript.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 <a href="#" target="_blank"> <img align="left" title="javascript"
-  src="https://github.com/seiha-ly/seiha-ly/blob/main/fppjegg7q1kb2pdzmlvf.png" alt="reactnative" width="auto" height="26px"  />
+  src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/c69a3f74f2d6ff7f789f4f8468c5fdf8b0df57a3/fppjegg7q1kb2pdzmlvf.png" alt="reactnative" width="auto" height="26px"  />
 </a>
 
 </p>
