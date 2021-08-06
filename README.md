@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## CURRICULUM VITAE
 <br /><br />
 
-[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
+[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Languages](#languages) | [Programming Language](#programming-language)
 
 ## លី សីហា ~ Seiha Ly
 
@@ -73,7 +73,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 ### Working Experiences
 
-[back to top^](#curriculum-vitae)
+[back to top^](#)
 
 - <b> <a target="_blank" href="https://codeclans.asia/" target="_blank" > Code Clans:
   </a></b> <br>
@@ -112,7 +112,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 - <b>Khmer:</b> Native Language
 - <b>English:</b> proficiency
 
-### Programming Language:
+### Programming Language
 
 <p align="left">
 
