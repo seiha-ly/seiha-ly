@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <a target="_blank" href="https://github.com/seiha-ly">
-  <img width="130" align="right" src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/main/LY_SEIHA.png">
+  <img width="110" align="right" src="https://raw.githubusercontent.com/seiha-ly/seiha-ly/main/LY_SEIHA.png">
 </a>
 
 ## CURRICULUM VITAE
+<br /><br />
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
