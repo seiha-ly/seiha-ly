@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_15302221-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85515302221)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Seiha </b>. I'm 24 years old and I've 3+ years experiences with web development and achieve more than 15+ various web application <b> Laravel Framework / Postgresql, MySql, Mongo DB </b>(2+years) / Node Js, NestJs, Express as <b>Full Stack Web Development</b>(1year).
+Hi There👋, My name is <b>Seiha </b>. I'm 25 years old and I've 4+ years experiences with web development and achieve more than 15+ various web application <b>
+  Node + Express JS, NestJS and ReactJS as <b>Full Stack Web Development</b>(1year) / Laravel Framework / Postgresql, MySql, Mongo DB </b>(3+years).
 
-Anyway I like to research with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
+Anyway I like to research with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as NodeJS, ReactJS laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
 
 ### Education
 
@@ -58,13 +59,13 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 ```tsx
 {
-  Back-End: ['Laravel Framework', 'Node Js', 'Nest Js','AJAX' ,'JSON'],
+  Back-End: ['Node Js', 'Nest Js', 'Laravel Framework', 'AJAX' ,'JSON'],
   Database: ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
-  frontendUI: ['Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
+  frontendUI: ['ReactJS', 'Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
   toolsBuildLibrary: ['Npm','yarn'],
   toolsDesign: ['Adobe XD', 'Photoshop'],
   toolsLint: ['Eslint' , 'Prettier',],
-  toolsDev: ['Vscode', 'Postman' , 'Trello', 'Sublime'],
+  toolsDev: ['GraphQL', 'Postman' , 'Trello', 'Vscode', 'Sublime'],
   Cloud: ['Google Cloud', 'AWS', 'Docker','Heroku','Github Page'],
   basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'Ubunto'],
   myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
@@ -73,19 +74,35 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 ### Working Experiences
 
-[back to top^](#)
+[back to top^](#curriculum-vitae)
 
+<!-- * -----Working At Sabay Corporation ---->
+- <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
+  </a></b> <br>
+  <b>Back End Developer</b> - September 2021 - Present (7 Month)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 7 Month to build Web Application such as Mysabay Entertainment, Movie Website, and News Website <b>.
+
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://mysabay.com/index.html">https://mysabay.com/index.html</a> - My Sabay (Node + Express JS and ReactJS)
+    - <a target="_blank" href="https://soyonow.sabay.com/">https://soyonow.sabay.com/ </a> - Soyo Now Website (Node + Express JS and ReactJS)
+    - <a target="_blank" href="https://news.sabay.com.kh/">https://news.sabay.com.kh/ </a> - Sabay News Website (Laravel Framework)
+  </a></b> <br>
+
+<!-- * -----Working At Code Clans ---->
 - <b> <a target="_blank" href="https://codeclans.asia/" target="_blank" > Code Clans:
   </a></b> <br>
-  <b>PHP/Laravel Framework Developer</b> - March 2020 - Present (1.5 Year)
+  <b>PHP/Laravel Framework Developer</b> - March 2020 - September 2021 (1.7 Year)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Code Clans about 1.5 Year to build Web Application such as Job Announcement, Online Shop, Sale System CMS, Tour Website. <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Code Clans about 1.7 Year to build Web Application such as Job Announcement, Online Shop, Sale System CMS, Tour Website. <b>.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://jobboom.asia/">https://jobboom.asia/</a> - Job Announcement (Website - Laravel Framework)
     - <a target="_blank" href="https://namkatyorlapa.com/">https://namkatyorlapa.com/ </a> - Tour Website
     - <a target="_blank" href="https://satvkh.com/">https://satvkh.com/ </a> - News Website
   </a></b> <br>
+  
+  <!-- * -----Working At KOSIGN ---->
 
 - <b> <a target="_blank" href="https://kosign.com.kh/">KOSIGN:
   </a></b> <br>
