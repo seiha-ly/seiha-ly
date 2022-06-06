@@ -81,12 +81,11 @@ Anyway I like to research with new technology for up to date and challenge, insp
   </a></b> <br>
   <b>Back End Developer</b> - September 2021 - Present (10 Months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 10 Months to build Web Application such as Mysabay Entertainment, Movie Website, and News Website <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 10 Months to build Web Application such as Mysabay Entertainment and Movie Website <b>.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://mysabay.com/index.html">https://mysabay.com/index.html</a> - My Sabay (Node + Express JS and ReactJS)
-    - <a target="_blank" href="https://soyonow.sabay.com/">https://soyonow.sabay.com/ </a> - Soyo Now Website (Node + Express JS and ReactJS)
-    - <a target="_blank" href="https://news.sabay.com.kh/">https://news.sabay.com.kh/ </a> - Sabay News Website (Laravel Framework)
+    - <a target="_blank" href="https://soyonow.sabay.com/">https://soyonow.sabay.com/ </a> - Soyo Now Website (Node + Express JS and ReactJS, Laravel Framework)
   </a></b> <br>
 
 <!-- * -----Working At Code Clans ---->
