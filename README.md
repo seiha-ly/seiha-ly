@@ -81,7 +81,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
   </a></b> <br>
   <b>Back End Developer</b> - September 2021 - Present (10 Month)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 7 Month to build Web Application such as Mysabay Entertainment, Movie Website, and News Website <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 10 Month to build Web Application such as Mysabay Entertainment, Movie Website, and News Website <b>.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://mysabay.com/index.html">https://mysabay.com/index.html</a> - My Sabay (Node + Express JS and ReactJS)
