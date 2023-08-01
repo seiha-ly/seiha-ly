@@ -106,7 +106,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
     - <a target="_blank" href="https://jobboom.asia/">https://jobboom.asia/</a> - Job Announcement (Website - Laravel Framework)
     - <a target="_blank" href="https://namkatyorlapa.com/">https://namkatyorlapa.com/ </a> - Tour Website
     - <a target="_blank" href="https://satvkh.com/">https://satvkh.com/ </a> - News Website
-  </a></b> <br><br><br>
+  </b> <br><br><br>
 
   <!-- * -----Working At KOSIGN ---->
 
