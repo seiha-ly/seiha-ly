@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_15302221-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85515302221)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Seiha </b>. I'm 25 years old and I've 4+ years experiences with web development and achieve more than 15+ various web application <b>
-  Node + Express JS, NestJS and ReactJS as <b>Full Stack Web Development</b>(1year) / Laravel Framework / Postgresql, MySql, Mongo DB </b>(3+years).
+Hi There👋, My name is <b>Seiha </b>. I'm 26 years old and I've 5+ years experiences with web development and achieve more than 15+ various web application <b>
+  Node + Express JS, NestJS and ReactJS as <b>Full Stack Web Development</b>(3year) / Laravel Framework / Postgresql, MySql, Mongo DB </b>(4+years).
 
-Anyway I like to research with new technology for up to date and challenge, inspire about coding. I like to build the sample base for using such as NodeJS, ReactJS laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
+Anyway I like to research with new technology for up to date and challenge, inspire about coding. I would like to build the sample base for using such as NodeJS, ReactJS laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
 
 ### Education
 
@@ -59,14 +59,14 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 ```tsx
 {
-  Back-End: ['Node Js', 'Nest Js', 'Laravel Framework', 'AJAX' ,'JSON'],
+  Back-End: ['Node Js', 'Nest Js', 'Laravel Framework', 'ThinkPHP'],
   Database: ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
   frontendUI: ['ReactJS', 'Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
   toolsBuildLibrary: ['Npm','yarn'],
   toolsDesign: ['Adobe XD', 'Photoshop'],
   toolsLint: ['Eslint' , 'Prettier',],
   toolsDev: ['GraphQL', 'Postman' , 'Trello', 'Vscode', 'Sublime'],
-  Cloud: ['Google Cloud', 'AWS', 'Docker','Heroku','Github Page'],
+  Cloud: ['AWS', 'Docker','Heroku'],
   basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'Ubunto'],
   myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
 }
