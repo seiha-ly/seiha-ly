@@ -86,7 +86,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <!-- * -----Working At Sabay Corporation ---->
 - <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
   </a></b> <br>
-  <b>Back End Developer</b> - September 2021 - Present (10 Months)
+  <b>Back End Developer</b> - September 2021 - July 2023 (10 Months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Sabay Digital Corporation about 10 Months to build Web Application such as Mysabay Entertainment and Movie Website <b>.
 
