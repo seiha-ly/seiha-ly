@@ -76,6 +76,13 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 [back to top^](#curriculum-vitae)
 
+<!-- * -----Working At Infinity Information & Apps Dev ---->
+- <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
+  </a></b> <br>
+  <b>Back End Developer</b> - July 2022 - Present (1+ Years)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1+ Years to build Web Application such as Livestream Website with websocket chat real time <b>.
+
 <!-- * -----Working At Sabay Corporation ---->
 - <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
   </a></b> <br>
