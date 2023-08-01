@@ -81,7 +81,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
   </a></b> <br>
   <b>Back End Developer</b> - July 2022 - Present (1+ Years)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1+ Years to build Web Application such as Livestream Website with websocket chat real time <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1+ Years to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time  <b>.
 
 <!-- * -----Working At Sabay Corporation ---->
 - <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
