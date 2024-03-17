@@ -63,10 +63,9 @@ Anyway I like to research with new technology for up to date and challenge, insp
   Database: ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
   frontendUI: ['ReactJS', 'Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
   toolsBuildLibrary: ['Npm','yarn'],
-  toolsDesign: ['Adobe XD', 'Photoshop'],
   toolsLint: ['Eslint' , 'Prettier',],
   toolsDev: ['GraphQL', 'Postman' , 'Trello', 'Vscode', 'Sublime'],
-  Cloud: ['AWS', 'Docker','Heroku'],
+  Cloud: ['AWS', 'Docker','CapRover'],
   basicLanguages: ['Linux','SocketIo','Ubunto'],
   myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
 }
