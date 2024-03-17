@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_15302221-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85515302221)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Seiha </b>. I'm 26 years old and I've 5+ years experiences with web development and achieve more than 15+ various web application <b>
-  Node + Express JS, NestJS and ReactJS as <b>Full Stack Web Development</b>(3year) / Laravel Framework / Postgresql, MySql, Mongo DB </b>(4+years).
+Hi There👋, My name is <b>Seiha </b>. I'm 27 years old and I've 6+ years experiences with web development and achieve more than 15+ various web application <b>
+  Node + Express JS, NestJS and ReactJS as <b>Full Stack Web Development</b>(4year) / Laravel Framework / Postgresql, MySql, Mongo DB </b>(4+years).
 
 Anyway I like to research with new technology for up to date and challenge, inspire about coding. I would like to build the sample base for using such as NodeJS, ReactJS laravel framework and NestJS that improving. To make the project boilerplate is clean structure that make it easy to use.
 
@@ -67,7 +67,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
   toolsLint: ['Eslint' , 'Prettier',],
   toolsDev: ['GraphQL', 'Postman' , 'Trello', 'Vscode', 'Sublime'],
   Cloud: ['AWS', 'Docker','Heroku'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'Ubunto'],
+  basicLanguages: ['Linux','SocketIo','Ubunto'],
   myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
 }
 ```
@@ -79,9 +79,13 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <!-- * -----Working At Infinity Information & Apps Dev ---->
 - <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
   </a></b> <br>
-  <b>Back End Developer</b> - July 2022 - Present (1+ Years)
+  <b>Back End Developer</b> - July 2022 - Present (1 year 8 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1+ Years to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time  <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1 year 8 month to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time and master card(integration with third-party for API) using nodeJS + express <b>.
+
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://we-live.app/#/pages/pc/index/index">https://we-live.app/#/pages/pc/index/index</a> - we-live (Node + Express JS and thinkPHP)
+  </a></b> <br>
 
 <!-- * -----Working At Sabay Corporation ---->
 - <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
@@ -98,7 +102,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <!-- * -----Working At Code Clans ---->
 - <b> <a target="_blank" href="https://codeclans.asia/" target="_blank" > Code Clans:
   </a></b> <br>
-  <b>PHP/Laravel Framework Developer</b> - March 2020 - September 2021 (1.7 Year)
+  <b>PHP/Laravel Framework Developer</b> - March 2020 - September 2021 (1 year 7 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Code Clans about 1.7 Year to build Web Application such as Job Announcement, Online Shop, Sale System CMS, Tour Website. <b>.
 
