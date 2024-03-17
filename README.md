@@ -85,7 +85,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://we-live.app/#/pages/pc/index/index">https://we-live.app/#/pages/pc/index/index</a> - we-live (Node + Express JS and thinkPHP)
-  </a></b> <br>
+   <br>
 
 <!-- * -----Working At Sabay Corporation ---->
 - <b> <a target="_blank" href="https://sabay.com/" target="_blank" > Sabay Digital Corporation:
@@ -97,7 +97,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://mysabay.com/index.html">https://mysabay.com/index.html</a> - My Sabay (Node + Express JS and ReactJS)
     - <a target="_blank" href="https://soyonow.sabay.com/">https://soyonow.sabay.com/ </a> - Soyo Now Website (Node + Express JS and ReactJS, Laravel Framework)
-  </a></b> <br>
+   <br>
 
 <!-- * -----Working At Code Clans ---->
 - <b> <a target="_blank" href="https://codeclans.asia/" target="_blank" > Code Clans:
