@@ -77,7 +77,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 <!-- * -----Working At Infinity Information & Apps Dev ---->
 - <b> <a target="_blank" href="https://infinity-tech.cc" target="_blank" > Infinity Information & Apps Dev:
   </a></b> <br>
-  <b>Back End Developer</b> - October 2022 - Present (2 year 8 months)
+  <b>Back End Developer</b> - October 2022 - Present (2 year 3 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 2 year 3 month to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time and master card(integration with third-party for API) using nodeJS + express <b>.
 
