@@ -49,7 +49,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+    <b> SPRING</b>: Spring Boot, Spring Security, ThymeLeaf Template Engine
 
 - <b><a href="#" > Hun Sen ROTA high school :
   </a> </b> – Ksach Kandal, Kandal Province<br>
@@ -62,12 +62,11 @@ Anyway I like to research with new technology for up to date and challenge, insp
   Back-End: ['Node Js', 'Nest Js', 'Laravel Framework', 'ThinkPHP'],
   Database: ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
   frontendUI: ['ReactJS', 'Html5', 'JQuery', 'Java Script', 'Bootstrap 4', 'Css3'],
-  toolsBuildLibrary: ['Npm','yarn'],
+  toolsBuildLibrary: ['Npm', 'yarn'],
   toolsLint: ['Eslint' , 'Prettier',],
-  toolsDev: ['GraphQL', 'Postman' , 'Trello', 'Vscode', 'Sublime'],
-  Cloud: ['AWS', 'Docker','CapRover'],
-  basicLanguages: ['Linux','SocketIo','Ubunto'],
-  myOpenSourceProject: ['NestJS Boilerplate', 'Docker Composes']
+  toolsDev: ['GraphQL', 'Postman', 'Git', 'Jira', 'Vscode', 'Sublime'],
+  Cloud: ['AWS', 'Docker', 'CapRover'],
+  basicLanguages: ['Linux', 'SocketIo', 'Ubuntu'],
 }
 ```
 
@@ -80,10 +79,11 @@ Anyway I like to research with new technology for up to date and challenge, insp
   </a></b> <br>
   <b>Back End Developer</b> - July 2022 - Present (1 year 8 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 1 year 8 month to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time and master card(integration with third-party for API) using nodeJS + express <b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Infinity Information & Apps Dev about 2 year 3 month to build Web Application such as Livestream Website using ThinkPHP for back end and nodeJS + websocket for chat real time and master card(integration with third-party for API) using nodeJS + express <b>.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://we-live.app/#/pages/pc/index/index">https://we-live.app/#/pages/pc/index/index</a> - we-live (Node + Express JS and thinkPHP)
+    - Integration wallet & card currency with third-party currency (NodeJS + Laravel Framework)
    <br>
 
 <!-- * -----Working At Sabay Corporation ---->
@@ -106,7 +106,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working at Code Clans about 1.7 Year to build Web Application such as Job Announcement, Online Shop, Sale System CMS, Tour Website. <b>.
 
   - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://jobboom.asia/">https://jobboom.asia/</a> - Job Announcement (Website - Laravel Framework)
+    - <a target="_blank" href="https://jobboom.asia/">https://jobboom.asia/</a> - Job Announcement (Website - Node + Express JS & Laravel Framework)
     - <a target="_blank" href="https://namkatyorlapa.com/">https://namkatyorlapa.com/ </a> - Tour Website
     - <a target="_blank" href="https://satvkh.com/">https://satvkh.com/ </a> - News Website
    <br><br><br>
@@ -115,7 +115,7 @@ Anyway I like to research with new technology for up to date and challenge, insp
 
 - <b> <a target="_blank" href="https://kosign.com.kh/">KOSIGN:
   </a></b> <br>
-  <b>Web Developer</b> - September 2018 - March 2020 (1 year 6 months)
+  <b>Web Developer (Node + Express JS + HTML/CSS + JQuery)</b> - September 2018 - March 2020 (1 year 6 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked about 1 year and 6 months at Korean company in the Phnom Penh. I've developed with web UI using <b>Java Script</b> <b>/JQuery, Typescript</b>
 
